@@ -8,6 +8,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -48,9 +49,14 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
