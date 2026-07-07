@@ -26,6 +26,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0002-add-two-numbers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0009-palindrome-number) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
