@@ -14,6 +14,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
