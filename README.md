@@ -14,6 +14,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -22,6 +23,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -97,6 +99,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
