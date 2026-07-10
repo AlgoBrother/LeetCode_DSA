@@ -16,6 +16,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
