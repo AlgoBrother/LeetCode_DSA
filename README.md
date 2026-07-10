@@ -18,6 +18,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +80,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,10 +88,12 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,8 +111,10 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0029-divide-two-integers) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
