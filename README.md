@@ -117,10 +117,12 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -128,4 +130,12 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0029-divide-two-integers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0029-divide-two-integers) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
