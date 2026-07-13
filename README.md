@@ -10,6 +10,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0007-reverse-integer](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -158,6 +160,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 ## Enumeration
 |  |
