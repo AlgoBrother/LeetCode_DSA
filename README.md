@@ -12,6 +12,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -131,6 +132,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -161,6 +163,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 ## Enumeration
 |  |
