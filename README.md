@@ -151,4 +151,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
