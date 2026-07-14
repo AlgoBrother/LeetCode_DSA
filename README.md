@@ -26,6 +26,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -53,6 +54,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0029-divide-two-integers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -116,6 +118,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -177,4 +180,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
