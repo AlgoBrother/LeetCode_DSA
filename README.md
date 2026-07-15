@@ -58,6 +58,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -193,6 +194,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
