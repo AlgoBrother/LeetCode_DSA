@@ -9,6 +9,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0001-two-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
@@ -110,6 +111,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
