@@ -61,6 +61,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0009-palindrome-number](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0556-next-greater-element-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0556-next-greater-element-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -81,6 +82,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0345-reverse-vowels-of-a-string](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0556-next-greater-element-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1894-merge-strings-alternately) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -124,6 +126,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0345-reverse-vowels-of-a-string](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0556-next-greater-element-iii) |
 | [1894-merge-strings-alternately](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
