@@ -24,6 +24,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -210,8 +211,10 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
