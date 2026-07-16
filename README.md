@@ -23,6 +23,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0238-product-of-array-except-self](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -41,6 +42,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -207,4 +209,9 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
