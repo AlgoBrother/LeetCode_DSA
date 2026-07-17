@@ -31,6 +31,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -46,6 +47,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -63,6 +65,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0556-next-greater-element-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0556-next-greater-element-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -95,6 +98,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -115,6 +119,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +158,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -206,6 +212,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Number Theory
 |  |
 | ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -220,4 +227,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
