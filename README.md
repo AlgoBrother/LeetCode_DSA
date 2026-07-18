@@ -24,6 +24,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0238-product-of-array-except-self](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -110,6 +112,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +217,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -237,4 +241,16 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
