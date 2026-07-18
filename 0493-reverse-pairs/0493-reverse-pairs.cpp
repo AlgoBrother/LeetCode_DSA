@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     void merge(vector<int> &nums, int left, int mid, int right){
         int i = left, j = mid + 1, k = 0;
         vector<int> temp(right - left + 1);
@@ -37,15 +36,15 @@ public:
     }
 
     int mergeSort(vector<int> &nums, int left, int right){
-        int cnt = 0;
+        int count = 0;
         if (left >= right) return 0;
         int mid = left + (right - left) / 2;
 
-        cnt+= mergeSort(nums, left, mid);
-        cnt+=mergeSort(nums, mid + 1, right);
-        cnt+=crossCount(nums, left, mid, right);
+        count += mergeSort(nums, left, mid);
+        count +=mergeSort(nums, mid + 1, right);
+        count +=crossCount(nums, left, mid, right);
         merge(nums, left, mid, right);
-        return cnt;
+        return count;
     }
 
     int reversePairs(vector<int>& nums) {
