@@ -12,6 +12,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0027-remove-element](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
