@@ -9,19 +9,9 @@ public:
             else if(arr[mid] > target) right = mid - 1;
             else left = mid + 1;
         }
-        return -1;
+        return left;
     }
     int searchInsert(vector<int>& nums, int target) {
-        int pos = binarySearch(nums, target);
-        int n = nums.size();
-        if(pos == -1){
-            int i = 0;
-            while(n--){
-                if(nums[i] > target){ pos = i;break;}
-                else pos = nums.size();
-                i++;
-            }
-        }
-        return pos;
+        return binarySearch(nums, target);
     }
 };
