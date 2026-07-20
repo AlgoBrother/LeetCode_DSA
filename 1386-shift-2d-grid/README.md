@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/shift-2d-grid/solutions/8408131/inplace-rotation-rotate-array-2d-to-1d-i-xobg/?envType=daily-question&envId=2026-07-20">1386. Shift 2D Grid</a></h2><h3>Easy</h3><hr><p>Given a 2D <code>grid</code> of size <code>m x n</code>&nbsp;and an integer <code>k</code>. You need to shift the <code>grid</code>&nbsp;<code>k</code> times.</p>
+<h2><a href="https://leetcode.com/problems/shift-2d-grid">1386. Shift 2D Grid</a></h2><h3>Easy</h3><hr><p>Given a 2D <code>grid</code> of size <code>m x n</code>&nbsp;and an integer <code>k</code>. You need to shift the <code>grid</code>&nbsp;<code>k</code> times.</p>
 
 <p>In one shift operation:</p>
 
