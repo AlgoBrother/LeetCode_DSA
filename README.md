@@ -31,6 +31,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0605-can-place-flowers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1386-shift-2d-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -176,6 +177,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
+| [1386-shift-2d-grid](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1386-shift-2d-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -209,6 +211,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [1386-shift-2d-grid](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1386-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
