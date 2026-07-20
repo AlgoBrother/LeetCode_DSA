@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int binarySearch(vector<int> arr, int target){
+    int binarySearch(vector<int>& arr, int target){
         int right = arr.size()-1;
         int left = 0;
         while(left <= right){
