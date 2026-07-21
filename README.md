@@ -13,6 +13,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
@@ -143,6 +144,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0015-3sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
@@ -157,6 +159,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -245,6 +248,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
@@ -252,6 +256,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
