@@ -97,6 +97,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1894-merge-strings-alternately) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -220,6 +221,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1212-sequential-digits) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
