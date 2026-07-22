@@ -23,6 +23,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
@@ -197,6 +198,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -213,10 +215,12 @@ Keeping track of all DSA questions I practiced from LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
@@ -224,6 +228,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [1386-shift-2d-grid](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1386-shift-2d-grid) |
 ## Enumeration
 |  |
