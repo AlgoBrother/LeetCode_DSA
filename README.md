@@ -107,6 +107,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1894-merge-strings-alternately) |
+| [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -185,6 +186,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0334-increasing-triplet-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0605-can-place-flowers) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
