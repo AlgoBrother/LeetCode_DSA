@@ -114,6 +114,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -147,6 +148,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0628-maximum-product-of-three-numbers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -320,4 +322,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
