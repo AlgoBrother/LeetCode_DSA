@@ -61,6 +61,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -116,6 +117,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1894-merge-strings-alternately](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1894-merge-strings-alternately) |
 | [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -153,6 +155,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0628-maximum-product-of-three-numbers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3859-maximum-product-of-two-digits) |
@@ -161,6 +164,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0229-majority-element-ii) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
@@ -203,6 +207,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
