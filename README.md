@@ -28,6 +28,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0238-product-of-array-except-self](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0503-next-greater-element-ii) |
@@ -81,6 +82,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0009-palindrome-number](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -101,6 +103,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -339,4 +343,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
