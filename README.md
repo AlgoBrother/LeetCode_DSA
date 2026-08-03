@@ -39,6 +39,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0909-stone-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0909-stone-game) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1386-shift-2d-grid) |
+| [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -88,6 +89,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0628-maximum-product-of-three-numbers](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0909-stone-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -202,6 +204,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0392-is-subsequence](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -351,4 +354,13 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0486-predict-the-winner](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
