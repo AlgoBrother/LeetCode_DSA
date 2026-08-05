@@ -248,6 +248,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0207-course-schedule](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0207-course-schedule) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3561-remove-methods-from-project) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -263,12 +264,14 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0207-course-schedule) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0207-course-schedule) |
 | [2793-count-the-number-of-complete-components](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3561-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
