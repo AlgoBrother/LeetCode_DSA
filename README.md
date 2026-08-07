@@ -97,6 +97,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -128,6 +129,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -222,6 +224,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -304,6 +307,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -371,4 +375,8 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
