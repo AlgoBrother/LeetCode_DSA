@@ -94,6 +94,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1146-greatest-common-divisor-of-strings](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -214,6 +215,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0909-stone-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -372,18 +374,29 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0909-stone-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
