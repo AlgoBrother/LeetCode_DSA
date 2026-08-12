@@ -46,6 +46,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -68,6 +69,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0496-next-greater-element-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -146,6 +148,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -402,7 +405,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
