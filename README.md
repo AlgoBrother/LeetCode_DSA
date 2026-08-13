@@ -46,6 +46,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -135,6 +136,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1894-merge-strings-alternately) |
 | [2011-maximum-value-after-insertion](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2011-maximum-value-after-insertion) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -356,11 +358,13 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0493-reverse-pairs) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 ## Design
 |  |
 | ------- |
@@ -405,7 +409,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
