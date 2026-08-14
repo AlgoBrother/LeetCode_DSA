@@ -73,6 +73,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3583-sorted-gcd-pair-queries](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -139,6 +140,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [2319-longest-substring-of-one-repeating-character](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -151,6 +153,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -409,7 +412,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
