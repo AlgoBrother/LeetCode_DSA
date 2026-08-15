@@ -56,6 +56,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -280,6 +281,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -412,7 +414,7 @@ Keeping track of all DSA questions I practiced from LeetCode
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1617-stone-game-iv) |
