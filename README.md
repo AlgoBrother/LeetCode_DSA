@@ -7,6 +7,7 @@
 | [0058-length-of-last-word](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0058-length-of-last-word) |
 | [2039-sum-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2039-sum-game) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +55,9 @@
 |  |
 | ------- |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
