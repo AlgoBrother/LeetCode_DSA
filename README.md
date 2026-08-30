@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [2039-sum-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2039-sum-game) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
