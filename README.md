@@ -29,6 +29,7 @@
 | ------- |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -66,4 +68,16 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
