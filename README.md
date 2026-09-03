@@ -14,6 +14,7 @@
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2039-sum-game) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
