@@ -34,6 +34,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4284-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
+| [4284-smallest-stable-index-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4284-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
