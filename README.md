@@ -32,6 +32,7 @@
 | ------- |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Binary Search
+|  |
+| ------- |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
