@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
@@ -58,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -92,9 +95,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
