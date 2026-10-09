@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0058-length-of-last-word) |
+| [1078-remove-outermost-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2039-sum-game) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -109,9 +110,11 @@
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
