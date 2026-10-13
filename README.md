@@ -24,6 +24,7 @@
 | [2039-sum-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4284-smallest-stable-index-i) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
