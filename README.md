@@ -36,6 +36,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -120,4 +122,12 @@
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
