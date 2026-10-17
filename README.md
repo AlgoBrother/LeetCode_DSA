@@ -38,6 +38,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4256-construct-uniform-parity-array-i) |
@@ -67,6 +68,7 @@
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
