@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0001-two-sum) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2002-stone-game-viii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/0001-two-sum) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
