@@ -10,6 +10,7 @@
 | [2039-sum-game](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/2039-sum-game) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/AlgoBrother/LeetCode_DSA/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
